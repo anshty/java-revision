@@ -12,13 +12,13 @@ public class i_miss_you {
                 }
             }
             break;
-            case 2: if(age>18-21){
+            case 2: if(age>18&&age<21){
                 for(i=0;i<8;i++){
                     System.out.println("i miss you");
                 }
             }
             break;
-            case 3: if(age>22-25){
+            case 3: if(age>22&&age<25){
                 for(i=0;i<18;i++){
                     System.out.println("i miss you");
                 }
