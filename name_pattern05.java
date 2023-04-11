@@ -11,7 +11,7 @@ public class name_pattern05 {
                     System.out.print("      ");
                 }
             }
-            System.out.println();
+            System.out.println(" ");
         }
     }
 }
