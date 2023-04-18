@@ -7,12 +7,10 @@ public class patten_21 {
             for (j = 1; j <= n - i; j++) {
                 System.out.print(" ");
 
-             }for(j=1;j<=i;j++){
-                System.out.print(i);
-            }System.out.println();
-            }for(i=2;i<=n;i++){
-                for(j=1;j<=i;j++){
-                    System.out.print(i);
+             }for(j=i;j>=1;j--) {
+                System.out.print(j);
+            }for(j=2;j<=i;j++){
+                System.out.print(j);
                 }
             System.out.println();
             }
